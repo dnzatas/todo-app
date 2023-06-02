@@ -14,4 +14,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 #
 
-![My animated logo](public/todo.png)
+
+<img src="public/todo.png" alt="Todo App" title="React Todo App">
